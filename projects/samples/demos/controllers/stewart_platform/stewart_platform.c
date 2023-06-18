@@ -26,7 +26,7 @@
 #include <webots/robot.h>
 
 #define TIME_STEP 64
-#define NUM_PISTONS 6
+#define NUM_PISTONS 5
 
 // linear motors
 static WbDeviceTag pistons[NUM_PISTONS];
